@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0472b1cb-e795-4880-a160-5cfac81313bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="IPersistence_test" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Program Files\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VWOp8pM4O0qRmVYU3o7zwreVTi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577262783161" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.lagou.config" />
+      <recent name="com.lagou.sqlSession" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\54147\IdeaProjects\IPersistence\src\main\java\com\lagou" />
+      <recent name="C:\Users\54147\IdeaProjects\IPersistence\src\main\java\com\lagou\config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.IPersistenceTest.testDeleteUser">
+    <configuration name="IPersistenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IPersistence_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.IPersistenceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IPersistenceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IPersistence_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.IPersistenceTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IPersistenceTest.testAddUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IPersistence_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.IPersistenceTest" />
+      <option name="METHOD_NAME" value="testAddUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IPersistenceTest.testDeleteUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IPersistence_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.IPersistenceTest" />
+      <option name="METHOD_NAME" value="testDeleteUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IPersistenceTest.testUpdateUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IPersistence_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.IPersistenceTest" />
+      <option name="METHOD_NAME" value="testUpdateUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IPersistenceTest.testDeleteUser" />
+        <item itemvalue="JUnit.IPersistenceTest.testUpdateUser" />
+        <item itemvalue="JUnit.IPersistenceTest.testAddUser" />
+        <item itemvalue="JUnit.IPersistenceTest.test" />
+        <item itemvalue="JUnit.IPersistenceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0472b1cb-e795-4880-a160-5cfac81313bf" name="Default Changelist" comment="" />
+      <created>1577188378551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577188378551</updated>
+      <workItem from="1577365566430" duration="2459000" />
+      <workItem from="1577437500609" duration="1265000" />
+      <workItem from="1577536479838" duration="1919000" />
+      <workItem from="1577585443785" duration="5456000" />
+      <workItem from="1577615149897" duration="1793000" />
+      <workItem from="1577672828335" duration="1697000" />
+      <workItem from="1577755350207" duration="3857000" />
+      <workItem from="1577779760442" duration="2667000" />
+      <workItem from="1577845999824" duration="2669000" />
+      <workItem from="1577869730115" duration="5910000" />
+      <workItem from="1577931309155" duration="1291000" />
+      <workItem from="1577971909124" duration="3172000" />
+      <workItem from="1578010297247" duration="1898000" />
+      <workItem from="1578056967854" duration="628000" />
+      <workItem from="1578103059292" duration="8789000" />
+      <workItem from="1578185381892" duration="6798000" />
+      <workItem from="1578213330756" duration="4349000" />
+      <workItem from="1578269838212" duration="15821000" />
+      <workItem from="1578356422440" duration="7803000" />
+      <workItem from="1578385801828" duration="601000" />
+      <workItem from="1578388174985" duration="6000" />
+      <workItem from="1578388397663" duration="1972000" />
+      <workItem from="1578446898383" duration="4023000" />
+      <workItem from="1578474190529" duration="604000" />
+      <workItem from="1578528626501" duration="594000" />
+      <workItem from="1578748111500" duration="1021000" />
+      <workItem from="1578793555693" duration="8453000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="611" y="189" key="#Project_Structure" timestamp="1577593364705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="611" y="189" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1577593364705" />
+    <state x="473" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577366452566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="473" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577366452566" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1578797397422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578797397422" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578127419697">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578127419697" />
+    <state x="773" y="381" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1577585692014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="773" y="381" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1577585692014" />
+    <state x="799" y="285" key="FileChooserDialogImpl" timestamp="1578140304290">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="799" y="285" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578140304290" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1578803086385">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578803086385" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1578803086385">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578803086385" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1578803086385">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578803086385" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1578803086385">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578803086385" />
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom" timestamp="1578363691076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578363691076" />
+    <state width="1877" height="338" key="GridCell.Tab.1.center" timestamp="1578363691076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578363691076" />
+    <state width="1877" height="338" key="GridCell.Tab.1.left" timestamp="1578363691076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578363691076" />
+    <state width="1877" height="338" key="GridCell.Tab.1.right" timestamp="1578363691076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578363691076" />
+    <state x="499" y="105" key="SettingsEditor" timestamp="1577847846997">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="499" y="105" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577847846997" />
+    <state x="681" y="261" width="582" height="524" key="StructurePopup" timestamp="1577589098186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="261" width="582" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1577589098186" />
+    <state x="699" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1578446913909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="699" y="354" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578446913909" />
+    <state x="511" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1578284156967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="511" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1578284156967" />
+    <state x="393" y="140" key="new project wizard" timestamp="1577540337378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="393" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1577540337378" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1577780514036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577780514036" />
+    <state x="682" y="249" width="672" height="678" key="search.everywhere.popup" timestamp="1578794477838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="249" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578794477838" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lagou/test/IPersistenceTest.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lagou/test/IPersistenceTest.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/sqlSession/DefaultSqlSession.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/sqlSession/SimpleExecutor.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lagou/test/IPersistenceTest.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/sqlSession/DefaultSqlSession.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/sqlSession/DefaultSqlSession.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou/sqlSession/DefaultSqlSession.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
